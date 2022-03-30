@@ -4309,6 +4309,14 @@
     "named": false
   },
   {
+    "type": "character",
+    "named": true
+  },
+  {
+    "type": "comment",
+    "named": true
+  },
+  {
     "type": "datatype",
     "named": false
   },
@@ -4435,6 +4443,10 @@
   {
     "type": "signature",
     "named": false
+  },
+  {
+    "type": "string",
+    "named": true
   },
   {
     "type": "struct",

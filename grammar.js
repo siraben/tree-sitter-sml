@@ -3,7 +3,7 @@ const WORD = token(/0w\d+|0wx[0-9A-Fa-f]+/);
 const FLOAT = token(/~?\d+\.\d+([Ee]~?\d+)?/);
 
 module.exports = grammar({
-	name: 'standard_ml',
+	name: 'sml',
 
 	extras: $ => [
 		/\s/,

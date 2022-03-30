@@ -1,5 +1,5 @@
 {
-  "name": "standard_ml",
+  "name": "sml",
   "word": "ident",
   "rules": {
     "source_file": {
@@ -4168,6 +4168,7 @@
     }
   ],
   "conflicts": [],
+  "precedences": [],
   "externals": [
     {
       "type": "SYMBOL",
